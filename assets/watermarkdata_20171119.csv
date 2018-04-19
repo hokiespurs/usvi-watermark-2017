@@ -1,0 +1,87 @@
+Island,Place,Latitude N,Longitude W,Watermark height abv. MSL,Watermark type,Measurement ID,Lon
+STJ,Maho Bay,18.3597,64.7437,2.6,flotsam line,28,-64.7437
+STJ,Maho Bay,18.3596,64.7438,2.9,flotsam line,27,-64.7438
+STJ,Maho Bay,18.3562,64.7456,3.1,?????,30,-64.7456
+STJ,Maho Bay,18.3561,64.7455,2.1,floor level of Building,29,-64.7455
+STJ,Hawksnest Bay ,18.3459,64.7805,2.6,flotsam line,24,-64.7805
+STJ,Coral Bay,18.3433,64.7151,1.6,flotsam line,25,-64.7151
+STJ,Saltpond Bay,18.3085,64.7050,2.7,flotsam line,26,-64.7050
+STT,Magens Bay,18.3778,64.9362,4.5,stairway landing,19,-64.9362
+STT,Hull Bay,18.3706,64.9507,2.4,flotsam line,15,-64.9507
+STT,Dorothea Bay,18.3693,64.9619,2.7,mud line,31,-64.9619
+STT,Dorothea Bay,18.3689,64.9621,2.2,mud line,32,-64.9621
+STT,Hull Bay,18.3689,64.9525,2.5,flotsam line,14,-64.9525
+STT,Hull Bay,18.3688,64.9515,3.8,mud line,13,-64.9515
+STT,Dorothea Bay,18.3688,64.9613,2.3,mud line,33,-64.9613
+STT,Magans Bay ,18.3660,64.9218,2.7,flotsam line,5,-64.9218
+STT,Magans Bay ,18.3638,64.9222,1.3,mud line inside house,3,-64.9222
+STT,Magans Bay ,18.3657,64.9216,2.6,flotsam line,4,-64.9216
+STT,Magans Bay ,18.3595,64.9260,3.7,flotsam on trees,2,-64.9260
+STT,Magans Bay ,18.3594,64.9259,3.7,flotsam on trees,1,-64.9259
+STT,Botany Bay ,18.3551,65.0326,4.2,flotsam line,6,-65.0326
+STT,Sandy Bay ,18.3533,65.0342,4.2,top of beach scarp,7,-65.0342
+STT,Coki bay,18.3494,64.8660,1.8,house wall,16,-64.8660
+STT,Coki bay,18.3492,64.8670,2.0,house wall,17,-64.8670
+STT,Backefall Bay ,18.3459,65.0159,2.4,flotsam line,8,-65.0159
+STT,Charlotte Amalie,18.3403,64.9267,1.8,flotsam line,40,-64.9267
+STT,Brewers Bay,18.3398,64.9767,1.2,flotsam line,34,-64.9767
+STT,Long Bay,18.3383,64.9239,2.1,small coral boulders ,39,-64.9239
+STT,Smith Bay,18.3383,64.8562,2.2,top of beach scarp,18,-64.8562
+STT,Lindbergh Bay,18.3361,64.9657,1.9,beach sand ,35,-64.9657
+STT,Lindbergh Bay,18.3357,64.9647,2.6,beach sand ,37,-64.9647
+STT,Lindbergh Bay,18.3352,64.9640,2.3,beach sand ,36,-64.9640
+STT,Crown Bay,18.3352,64.9450,1.4,flotsom on fense,38,-64.9450
+STT,Pacquereau Bay,18.3228,64.9212,2.2,flotsam on pool side,9,-64.9212
+STT,Pacquereau Bay,18.3223,64.9214,2.8,grass on a parapet,10,-64.9214
+STT,Nadir Gut,18.3210,64.8787,5.1,flotsam on fense,23,-64.8787
+STT,Turquoise Bay,18.3205,64.8418,1.3,?????,11,-64.8418
+STT,Benner Bay,18.3196,64.8717,2.2,mud line,22,-64.8717
+STT,Nazareth Bay,18.3187,64.8526,2.9,flotsam line,20,-64.8526
+STT,Nazareth Bay,18.3145,64.8469,5.2,flotsam line,21,-64.8469
+STT,Bolongo Bay,18.3128,64.8971,1.7,mud line,12,-64.8971
+STX,Judith's Fancy Beach,17.7767,64.7434,3.4,coral boulders ,74,-64.7434
+STX,Little Bay Point E,17.7695,64.8769,5.8,flotsam on trees,79,-64.8769
+STX,Little Bay Point E,17.7694,64.8765,6.4,coral boulders ,78,-64.8765
+STX,Little Bay Point E,17.7691,64.8778,4.4,foot of a wall,80,-64.8778
+STX,Hams Bay,17.7638,64.8825,2.4,top of beach scarp,81,-64.8825
+STX,Prune Bay,17.7628,64.6546,1.6,top of beach scarp,61,-64.6546
+STX,Prune Bay,17.7627,64.6547,1.7,flotsam line,62,-64.6547
+STX,Prune Bay,17.7627,64.6547,1.6,beach sand ,63,-64.6547
+STX,Whale Point E,17.7585,64.5727,2.4,beach sand ,65,-64.5727
+STX,Whale Point E,17.7582,64.5723,2.9,flotsam line,66,-64.5723
+STX,Teague Bay,17.7563,64.6094,2.1,flotsam line,64,-64.6094
+STX,East End Bay,17.7539,64.5677,4.6,small coral boulders ,51,-64.5677
+STX,East End Bay,17.7538,64.5677,4.9,flotsam line,52,-64.5677
+STX,Chrestiansted W,17.7527,64.7177,1.6,flotsam line,75,-64.7177
+STX,Isaac Bay,17.7515,64.5706,4.6,coral boulders ,68,-64.5706
+STX,Isaac Bay,17.7495,64.5732,5.4,flotsam line,67,-64.5732
+STX,Gallows Bay,17.7478,64.6977,1.4,ground level in front of a house,73,-64.6977
+STX,Christiansted Harbor,17.7471,64.7062,0.9,flotsam on fense,69,-64.7062
+STX,Christiansted Harbor,17.7470,64.7073,1.2,flotsam on fense,70,-64.7073
+STX,Gallows Bay,17.7463,64.7006,1.4,flotsam on fense,71,-64.7006
+STX,Gallows Bay,17.7456,64.6990,1.0,house wall,72,-64.6990
+STX,Divi Carina Bay,17.7431,64.6050,2.5,beach sand line,49,-64.6050
+STX,Divi Carina Bay,17.7418,64.6059,3.2,mud line,50,-64.6059
+STX,Robin Bay,17.7299,64.6275,4.6,top of a log ,53,-64.6275
+STX,Rainbow Beach ,17.7293,64.8877,3.4,watermark on power generater,60,-64.8877
+STX,Rainbow Beach,17.7293,64.8877,3.2,watermark on power generater,59,-64.8877
+STX,Great Pond Bay,17.7237,64.6467,2.2,flotsam line,47,-64.6467
+STX,Great Pond Bay,17.7237,64.6465,2.2,flotsam line,48,-64.6465
+STX,Frederiksted N,17.7224,64.8854,3.2,beach gravels,82,-64.8854
+STX,Manchenil Bay,17.7050,64.7037,1.4,flotsam line,44,-64.7037
+STX,Manchenil Bay,17.7047,64.7035,1.6,flotsam line,45,-64.7035
+STX,Manchenil Bay,17.7043,64.7034,1.8,flotsam line on berm crest ,43,-64.7034
+STX,Manchenil Bay,17.7042,64.7033,1.9,flotsam line on berm crest ,42,-64.7033
+STX,Manchenil Bay,17.7041,64.7033,2.1,flotsam line on berm crest ,41,-64.7033
+STX,Halfpenny bay,17.7039,64.7024,3.6,flotsam line,46,-64.7024
+STX,Frederiksted S,17.6994,64.8869,2.0,flotsam on fense,54,-64.8869
+STX,Sandy Point,17.6906,64.8934,2.6,flotsam line,84,-64.8934
+STX,Sandy Point,17.6905,64.8933,1.9,flotsam line,83,-64.8933
+STX,Sandy Point,17.6902,64.8933,1.5,flotsam line,85,-64.8933
+STX,Long Point  Bay,17.6871,64.8537,3.6,flotsam line,77,-64.8537
+STX,Long Point Bay,17.6858,64.8600,2.4,flotsam on school ground,58,-64.8600
+STX,Long Point Bay,17.6856,64.8600,2.8,mud on a house door,57,-64.8600
+STX,Sandy Point,17.6844,64.8875,2.1,flotsam line,56,-64.8875
+STX,Long Point  ,17.6829,64.8343,3.2,flotsam line,76,-64.8343
+STX,Sandy Point,17.6816,64.9025,2.7,flotsam line,55,-64.9025
+,,,,,,,

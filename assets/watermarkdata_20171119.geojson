@@ -1,0 +1,1280 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7437,18.3597 ]
+    },
+    "properties": {
+    "Island":"STJ",
+    "Place":"Maho Bay",
+    "LongitudeW":64.7437,
+    "HEIGHT":2.6,
+    "TYPE":"flotsam line",
+    "ID":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7438,18.3596 ]
+    },
+    "properties": {
+    "Island":"STJ",
+    "Place":"Maho Bay",
+    "LongitudeW":64.7438,
+    "HEIGHT":2.9,
+    "TYPE":"flotsam line",
+    "ID":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7456,18.3562 ]
+    },
+    "properties": {
+    "Island":"STJ",
+    "Place":"Maho Bay",
+    "LongitudeW":64.7456,
+    "HEIGHT":3.1,
+    "TYPE":"?????",
+    "ID":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7455,18.3561 ]
+    },
+    "properties": {
+    "Island":"STJ",
+    "Place":"Maho Bay",
+    "LongitudeW":64.7455,
+    "HEIGHT":2.1,
+    "TYPE":"floor level of Building",
+    "ID":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7805,18.3459 ]
+    },
+    "properties": {
+    "Island":"STJ",
+    "Place":"Hawksnest Bay ",
+    "LongitudeW":64.7805,
+    "HEIGHT":2.6,
+    "TYPE":"flotsam line",
+    "ID":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7151,18.3433 ]
+    },
+    "properties": {
+    "Island":"STJ",
+    "Place":"Coral Bay",
+    "LongitudeW":64.7151,
+    "HEIGHT":1.6,
+    "TYPE":"flotsam line",
+    "ID":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7050,18.3085 ]
+    },
+    "properties": {
+    "Island":"STJ",
+    "Place":"Saltpond Bay",
+    "LongitudeW":64.705,
+    "HEIGHT":2.7,
+    "TYPE":"flotsam line",
+    "ID":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9362,18.3778 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Magens Bay",
+    "LongitudeW":64.9362,
+    "HEIGHT":4.5,
+    "TYPE":"stairway landing",
+    "ID":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9507,18.3706 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Hull Bay",
+    "LongitudeW":64.9507,
+    "HEIGHT":2.4,
+    "TYPE":"flotsam line",
+    "ID":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9619,18.3693 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Dorothea Bay",
+    "LongitudeW":64.9619,
+    "HEIGHT":2.7,
+    "TYPE":"mud line",
+    "ID":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9621,18.3689 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Dorothea Bay",
+    "LongitudeW":64.9621,
+    "HEIGHT":2.2,
+    "TYPE":"mud line",
+    "ID":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9525,18.3689 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Hull Bay",
+    "LongitudeW":64.9525,
+    "HEIGHT":2.5,
+    "TYPE":"flotsam line",
+    "ID":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9515,18.3688 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Hull Bay",
+    "LongitudeW":64.9515,
+    "HEIGHT":3.8,
+    "TYPE":"mud line",
+    "ID":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9613,18.3688 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Dorothea Bay",
+    "LongitudeW":64.9613,
+    "HEIGHT":2.3,
+    "TYPE":"mud line",
+    "ID":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9218,18.3660 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Magans Bay ",
+    "LongitudeW":64.9218,
+    "HEIGHT":2.7,
+    "TYPE":"flotsam line",
+    "ID":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9222,18.3638 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Magans Bay ",
+    "LongitudeW":64.9222,
+    "HEIGHT":1.3,
+    "TYPE":"mud line inside house",
+    "ID":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9216,18.3657 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Magans Bay ",
+    "LongitudeW":64.9216,
+    "HEIGHT":2.6,
+    "TYPE":"flotsam line",
+    "ID":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9260,18.3595 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Magans Bay ",
+    "LongitudeW":64.926,
+    "HEIGHT":3.7,
+    "TYPE":"flotsam on trees",
+    "ID":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9259,18.3594 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Magans Bay ",
+    "LongitudeW":64.9259,
+    "HEIGHT":3.7,
+    "TYPE":"flotsam on trees",
+    "ID":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.0326,18.3551 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Botany Bay ",
+    "LongitudeW":65.0326,
+    "HEIGHT":4.2,
+    "TYPE":"flotsam line",
+    "ID":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.0342,18.3533 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Sandy Bay ",
+    "LongitudeW":65.0342,
+    "HEIGHT":4.2,
+    "TYPE":"top of beach scarp",
+    "ID":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8660,18.3494 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Coki bay",
+    "LongitudeW":64.866,
+    "HEIGHT":1.8,
+    "TYPE":"house wall",
+    "ID":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8670,18.3492 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Coki bay",
+    "LongitudeW":64.867,
+    "HEIGHT":2,
+    "TYPE":"house wall",
+    "ID":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.0159,18.3459 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Backefall Bay ",
+    "LongitudeW":65.0159,
+    "HEIGHT":2.4,
+    "TYPE":"flotsam line",
+    "ID":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9267,18.3403 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Charlotte Amalie",
+    "LongitudeW":64.9267,
+    "HEIGHT":1.8,
+    "TYPE":"flotsam line",
+    "ID":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9767,18.3398 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Brewers Bay",
+    "LongitudeW":64.9767,
+    "HEIGHT":1.2,
+    "TYPE":"flotsam line",
+    "ID":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9239,18.3383 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Long Bay",
+    "LongitudeW":64.9239,
+    "HEIGHT":2.1,
+    "TYPE":"small coral boulders ",
+    "ID":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8562,18.3383 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Smith Bay",
+    "LongitudeW":64.8562,
+    "HEIGHT":2.2,
+    "TYPE":"top of beach scarp",
+    "ID":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9657,18.3361 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Lindbergh Bay",
+    "LongitudeW":64.9657,
+    "HEIGHT":1.9,
+    "TYPE":"beach sand ",
+    "ID":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9647,18.3357 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Lindbergh Bay",
+    "LongitudeW":64.9647,
+    "HEIGHT":2.6,
+    "TYPE":"beach sand ",
+    "ID":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9640,18.3352 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Lindbergh Bay",
+    "LongitudeW":64.964,
+    "HEIGHT":2.3,
+    "TYPE":"beach sand ",
+    "ID":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9450,18.3352 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Crown Bay",
+    "LongitudeW":64.945,
+    "HEIGHT":1.4,
+    "TYPE":"flotsom on fense",
+    "ID":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9212,18.3228 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Pacquereau Bay",
+    "LongitudeW":64.9212,
+    "HEIGHT":2.2,
+    "TYPE":"flotsam on pool side",
+    "ID":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9214,18.3223 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Pacquereau Bay",
+    "LongitudeW":64.9214,
+    "HEIGHT":2.8,
+    "TYPE":"grass on a parapet",
+    "ID":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8787,18.3210 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Nadir Gut",
+    "LongitudeW":64.8787,
+    "HEIGHT":5.1,
+    "TYPE":"flotsam on fense",
+    "ID":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8418,18.3205 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Turquoise Bay",
+    "LongitudeW":64.8418,
+    "HEIGHT":1.3,
+    "TYPE":"?????",
+    "ID":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8717,18.3196 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Benner Bay",
+    "LongitudeW":64.8717,
+    "HEIGHT":2.2,
+    "TYPE":"mud line",
+    "ID":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8526,18.3187 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Nazareth Bay",
+    "LongitudeW":64.8526,
+    "HEIGHT":2.9,
+    "TYPE":"flotsam line",
+    "ID":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8469,18.3145 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Nazareth Bay",
+    "LongitudeW":64.8469,
+    "HEIGHT":5.2,
+    "TYPE":"flotsam line",
+    "ID":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8971,18.3128 ]
+    },
+    "properties": {
+    "Island":"STT",
+    "Place":"Bolongo Bay",
+    "LongitudeW":64.8971,
+    "HEIGHT":1.7,
+    "TYPE":"mud line",
+    "ID":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7434,17.7767 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Judith's Fancy Beach",
+    "LongitudeW":64.7434,
+    "HEIGHT":3.4,
+    "TYPE":"coral boulders ",
+    "ID":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8769,17.7695 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Little Bay Point E",
+    "LongitudeW":64.8769,
+    "HEIGHT":5.8,
+    "TYPE":"flotsam on trees",
+    "ID":79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8765,17.7694 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Little Bay Point E",
+    "LongitudeW":64.8765,
+    "HEIGHT":6.4,
+    "TYPE":"coral boulders ",
+    "ID":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8778,17.7691 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Little Bay Point E",
+    "LongitudeW":64.8778,
+    "HEIGHT":4.4,
+    "TYPE":"foot of a wall",
+    "ID":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8825,17.7638 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Hams Bay",
+    "LongitudeW":64.8825,
+    "HEIGHT":2.4,
+    "TYPE":"top of beach scarp",
+    "ID":81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6546,17.7628 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Prune Bay",
+    "LongitudeW":64.6546,
+    "HEIGHT":1.6,
+    "TYPE":"top of beach scarp",
+    "ID":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6547,17.7627 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Prune Bay",
+    "LongitudeW":64.6547,
+    "HEIGHT":1.7,
+    "TYPE":"flotsam line",
+    "ID":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6547,17.7627 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Prune Bay",
+    "LongitudeW":64.6547,
+    "HEIGHT":1.6,
+    "TYPE":"beach sand ",
+    "ID":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.5727,17.7585 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Whale Point E",
+    "LongitudeW":64.5727,
+    "HEIGHT":2.4,
+    "TYPE":"beach sand ",
+    "ID":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.5723,17.7582 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Whale Point E",
+    "LongitudeW":64.5723,
+    "HEIGHT":2.9,
+    "TYPE":"flotsam line",
+    "ID":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6094,17.7563 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Teague Bay",
+    "LongitudeW":64.6094,
+    "HEIGHT":2.1,
+    "TYPE":"flotsam line",
+    "ID":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.5677,17.7539 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"East End Bay",
+    "LongitudeW":64.5677,
+    "HEIGHT":4.6,
+    "TYPE":"small coral boulders ",
+    "ID":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.5677,17.7538 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"East End Bay",
+    "LongitudeW":64.5677,
+    "HEIGHT":4.9,
+    "TYPE":"flotsam line",
+    "ID":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7177,17.7527 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Chrestiansted W",
+    "LongitudeW":64.7177,
+    "HEIGHT":1.6,
+    "TYPE":"flotsam line",
+    "ID":75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.5706,17.7515 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Isaac Bay",
+    "LongitudeW":64.5706,
+    "HEIGHT":4.6,
+    "TYPE":"coral boulders ",
+    "ID":68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.5732,17.7495 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Isaac Bay",
+    "LongitudeW":64.5732,
+    "HEIGHT":5.4,
+    "TYPE":"flotsam line",
+    "ID":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6977,17.7478 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Gallows Bay",
+    "LongitudeW":64.6977,
+    "HEIGHT":1.4,
+    "TYPE":"ground level in front of a house",
+    "ID":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7062,17.7471 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Christiansted Harbor",
+    "LongitudeW":64.7062,
+    "HEIGHT":0.9,
+    "TYPE":"flotsam on fense",
+    "ID":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7073,17.7470 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Christiansted Harbor",
+    "LongitudeW":64.7073,
+    "HEIGHT":1.2,
+    "TYPE":"flotsam on fense",
+    "ID":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7006,17.7463 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Gallows Bay",
+    "LongitudeW":64.7006,
+    "HEIGHT":1.4,
+    "TYPE":"flotsam on fense",
+    "ID":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6990,17.7456 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Gallows Bay",
+    "LongitudeW":64.699,
+    "HEIGHT":1,
+    "TYPE":"house wall",
+    "ID":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6050,17.7431 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Divi Carina Bay",
+    "LongitudeW":64.605,
+    "HEIGHT":2.5,
+    "TYPE":"beach sand line",
+    "ID":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6059,17.7418 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Divi Carina Bay",
+    "LongitudeW":64.6059,
+    "HEIGHT":3.2,
+    "TYPE":"mud line",
+    "ID":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6275,17.7299 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Robin Bay",
+    "LongitudeW":64.6275,
+    "HEIGHT":4.6,
+    "TYPE":"top of a log ",
+    "ID":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8877,17.7293 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Rainbow Beach ",
+    "LongitudeW":64.8877,
+    "HEIGHT":3.4,
+    "TYPE":"watermark on power generater",
+    "ID":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8877,17.7293 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Rainbow Beach",
+    "LongitudeW":64.8877,
+    "HEIGHT":3.2,
+    "TYPE":"watermark on power generater",
+    "ID":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6467,17.7237 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Great Pond Bay",
+    "LongitudeW":64.6467,
+    "HEIGHT":2.2,
+    "TYPE":"flotsam line",
+    "ID":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.6465,17.7237 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Great Pond Bay",
+    "LongitudeW":64.6465,
+    "HEIGHT":2.2,
+    "TYPE":"flotsam line",
+    "ID":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8854,17.7224 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Frederiksted N",
+    "LongitudeW":64.8854,
+    "HEIGHT":3.2,
+    "TYPE":"beach gravels",
+    "ID":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7037,17.7050 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Manchenil Bay",
+    "LongitudeW":64.7037,
+    "HEIGHT":1.4,
+    "TYPE":"flotsam line",
+    "ID":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7035,17.7047 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Manchenil Bay",
+    "LongitudeW":64.7035,
+    "HEIGHT":1.6,
+    "TYPE":"flotsam line",
+    "ID":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7034,17.7043 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Manchenil Bay",
+    "LongitudeW":64.7034,
+    "HEIGHT":1.8,
+    "TYPE":"flotsam line on berm crest ",
+    "ID":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7033,17.7042 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Manchenil Bay",
+    "LongitudeW":64.7033,
+    "HEIGHT":1.9,
+    "TYPE":"flotsam line on berm crest ",
+    "ID":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7033,17.7041 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Manchenil Bay",
+    "LongitudeW":64.7033,
+    "HEIGHT":2.1,
+    "TYPE":"flotsam line on berm crest ",
+    "ID":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7024,17.7039 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Halfpenny bay",
+    "LongitudeW":64.7024,
+    "HEIGHT":3.6,
+    "TYPE":"flotsam line",
+    "ID":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8869,17.6994 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Frederiksted S",
+    "LongitudeW":64.8869,
+    "HEIGHT":2,
+    "TYPE":"flotsam on fense",
+    "ID":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8934,17.6906 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Sandy Point",
+    "LongitudeW":64.8934,
+    "HEIGHT":2.6,
+    "TYPE":"flotsam line",
+    "ID":84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8933,17.6905 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Sandy Point",
+    "LongitudeW":64.8933,
+    "HEIGHT":1.9,
+    "TYPE":"flotsam line",
+    "ID":83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8933,17.6902 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Sandy Point",
+    "LongitudeW":64.8933,
+    "HEIGHT":1.5,
+    "TYPE":"flotsam line",
+    "ID":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8537,17.6871 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Long Point  Bay",
+    "LongitudeW":64.8537,
+    "HEIGHT":3.6,
+    "TYPE":"flotsam line",
+    "ID":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8600,17.6858 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Long Point Bay",
+    "LongitudeW":64.86,
+    "HEIGHT":2.4,
+    "TYPE":"flotsam on school ground",
+    "ID":58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8600,17.6856 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Long Point Bay",
+    "LongitudeW":64.86,
+    "HEIGHT":2.8,
+    "TYPE":"mud on a house door",
+    "ID":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8875,17.6844 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Sandy Point",
+    "LongitudeW":64.8875,
+    "HEIGHT":2.1,
+    "TYPE":"flotsam line",
+    "ID":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.8343,17.6829 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Long Point  ",
+    "LongitudeW":64.8343,
+    "HEIGHT":3.2,
+    "TYPE":"flotsam line",
+    "ID":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9025,17.6816 ]
+    },
+    "properties": {
+    "Island":"STX",
+    "Place":"Sandy Point",
+    "LongitudeW":64.9025,
+    "HEIGHT":2.7,
+    "TYPE":"flotsam line",
+    "ID":55
+    }
+  }
+]
+}
