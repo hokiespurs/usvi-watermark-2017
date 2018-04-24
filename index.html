@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>USVI Watermark Data(2011)</title>
+    <title>USVI Watermark Data(2017)</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
     <link rel="stylesheet" href="css/main.css"/>
@@ -24,7 +24,7 @@
     var mymap = L.map('map', {
         center: [18.0244,-64.774],
         zoom: 10,
-        maxZoom: 15,
+        maxZoom: 17,
         minZoom: 8,
         detectRetina: true // detect whether the sceen is high resolution or not.
     });
@@ -37,7 +37,7 @@
 
     measurements= L.geoJson.ajax("assets/watermarkdata_20171119.geojson",{
         onEachFeature: function(feature, layer){
-            layer.bindPopup("Type: " + feature.properties.TYPE + "<br> Height above MSL : " + feature.properties.HEIGHT.toFixed(1).toString() + "m");
+            layer.bindPopup(getPopUp(feature),{maxWidth : 560});
 
         },
         pointToLayer: function(feature,latlng) {
@@ -57,6 +57,17 @@
         attribution: 'Project support: NSF-1761461, NSF-1661315 | Basemap &copy; CartoDB | Made By Richie Slocum (Oregon State University)'
     });
 
+    function getPopUp(feature){
+        var htmlstr = '';
+        if (feature.properties.ID == 50) {
+            htmlstr += '<img src="img/' + feature.properties.ID.toString() + '.jpg" style="width:512px;">';
+        }
+        else {
+            htmlstr += "Type: " + feature.properties.TYPE + "<br> Height above MSL : " + feature.properties.HEIGHT.toFixed(1).toString() + "m";
+        }
+
+        return htmlstr;
+    }
     measurements.addTo(mymap);
 
     // Generate Colormap
